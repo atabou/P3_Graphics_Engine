@@ -35,7 +35,7 @@ To change the size of the screen:
 
 Frame rate is very low:
   - Non-optimised code
-  - Runs only on one CPU thread
+  - No multithreading support
   - Does not use the GPU
   
 Does not support the whole Wavefront .obj file format.
